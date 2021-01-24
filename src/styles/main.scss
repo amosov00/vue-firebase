@@ -1,0 +1,15 @@
+@import "../fonts/stylesheet.css";
+@import "const";
+body {
+  background-color: #DFE6EE;
+  font-family: "Futura New", serif;
+  font-weight: normal;
+  color: #142A42;
+}
+
+html {
+  box-sizing: border-box;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
